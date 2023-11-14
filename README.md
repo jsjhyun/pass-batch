@@ -12,6 +12,7 @@ PT 이용권 관리 서비스 내 배치 repository 입니다.
 * lombok 
 * ModelMapper
 
+
 ## Process
 ### 이용권 만료
 ```mermaid
